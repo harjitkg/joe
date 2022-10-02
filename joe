@@ -1,0 +1,6 @@
+a = 5
+b = 6
+a = float(input("enter = a "))
+b = float(input("enter = b"))
+s = a*b
+print "sum = ", s)
